@@ -7,6 +7,6 @@ To use this script:
 4. ```cd downloadsorganizer```
 5. ```python main_script.py```
 
-Note: This has only been tested on Mac OSX and assumes that the path to your downloads folder is "/Users/<username>/Downloads/"
+Note: This has only been tested on Mac OSX and assumes that the path to your downloads folder is "/Users/\<username>/Downloads/"
 
 Feedback or suggestions welcome!
